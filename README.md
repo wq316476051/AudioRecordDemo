@@ -13,7 +13,7 @@ audioFocus
 -
 becomingNoisy
 -
-/data/data/com.android.provider.media/databases/
+/data/data/com.android.providers.media/databases/
 --internal.db
 --external.db
 ---file(表) imge(VIEW) audio(VIEW) video(VIEW)
