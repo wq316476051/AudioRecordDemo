@@ -16,7 +16,7 @@ becomingNoisy
 /data/data/com.android.providers.media/databases/
 --internal.db
 --external.db
----file(表) imge(VIEW) audio(VIEW) video(VIEW)
+---files(表) imge(VIEW) audio(VIEW) video(VIEW)
 -
 media_type 的值 0 : 普通文件 , 1 : 图片文件  , 2: 音频文件  , 3: 视频文件
 -
